@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "4",
-    "ref": "lxe/ref#node-12"
+    "ref": "github:SkaceKamen/ref#node-next"
   },
   "devDependencies": {
     "bindings": "~1.5.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "lxe/ref-array#node-12"
+    "ref-array": "github:SkaceKamen/ref-array#node-next"
   }
 }
